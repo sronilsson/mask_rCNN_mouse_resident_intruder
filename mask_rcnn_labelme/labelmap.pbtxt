@@ -1,0 +1,89 @@
+item {
+  id: 1
+  name: 'Head_1'
+  
+}
+item {
+  id: 2
+  name: 'Head_2'
+  
+}
+item {
+  id: 3
+  name: 'Lat_left_1'
+  
+}
+item {
+  id: 4
+  name: 'Lat_left_2'
+  
+}
+item {
+  id: 5
+  name: 'Lat_right_1'
+  
+}
+item {
+  id: 6
+  name: 'Lat_right_2'
+  
+}
+item {
+  id: 7
+  name: 'Left_ear_1'
+  
+}
+item {
+  id: 8
+  name: 'Left_ear_2'
+  
+}
+item {
+  id: 9
+  name: 'Nose_1'
+  
+}
+item {
+  id: 10
+  name: 'Nose_2'
+  
+}
+item {
+  id: 11
+  name: 'Right_ear_1'
+  
+}
+item {
+  id: 12
+  name: 'Right_ear_2'
+  
+}
+item {
+  id: 13
+  name: 'Tail_1'
+  
+}
+item {
+  id: 14
+  name: 'Tail_2'
+}
+
+item {
+  id: 15
+  name: 'Tail_base_1'
+  
+}
+item {
+  id: 16
+  name: 'Tail_base_2'
+}
+
+item {
+  id: 17
+  name: 'Whole_body_1'
+}
+
+item {
+  id: 18
+  name: 'Whole_body_2'
+}
