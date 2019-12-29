@@ -1,5 +1,4 @@
-#### Pipeline for detecting and analyzing body parts of black and white mice using [mask RCNN](https://github.com/matterport/Mask_RCNN) and [inception coco](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md).
-#### cn abe csed for 'fingerprinting' animals and individual identification. 
+#### Pipeline for detecting and analyzing body parts of black and white mice using [mask RCNN](https://github.com/matterport/Mask_RCNN) and [inception coco](https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md). Can be used for 'fingerprinting' animals and individual identification. 
 ![alt-text-1](images/maskedrcnn_mice.gif "Mask RCNN")
 ![alt-text-1](images/heads_maskRCNN.gif "Mask RCNN2")
 * Weights for mouse resident intruder can be downloaded on [OSF](https://osf.io/6hpdf/). 
